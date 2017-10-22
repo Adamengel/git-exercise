@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Hello, World!\n");
+	printf("Hello, Git!\n");
 
 	system("pause");
 	return 0;
